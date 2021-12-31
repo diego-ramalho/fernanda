@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fernanda/static/css/main.d106e262.css",
+    "main.js": "/fernanda/static/js/main.ded62c76.js",
+    "static/js/787.deafb79e.chunk.js": "/fernanda/static/js/787.deafb79e.chunk.js",
+    "static/media/testimonials-bg.jpg": "/fernanda/static/media/testimonials-bg.b5a6189eb5ae7a6d81aa.jpg",
+    "static/media/hero-bg.jpg": "/fernanda/static/media/hero-bg.8a7de908bc9bf82a6e12.jpg",
+    "static/media/about-img.jpg": "/fernanda/static/media/about-img.6df0659bbd616ec53cfc.jpg",
+    "index.html": "/fernanda/index.html",
+    "main.d106e262.css.map": "/fernanda/static/css/main.d106e262.css.map",
+    "main.ded62c76.js.map": "/fernanda/static/js/main.ded62c76.js.map",
+    "787.deafb79e.chunk.js.map": "/fernanda/static/js/787.deafb79e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d106e262.css",
+    "static/js/main.ded62c76.js"
+  ]
+}
